@@ -1,0 +1,58 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": “Cantico delle Creature”,
+      "publisher": “Clarilla”,
+      "tray_image_file": "tray_cantico.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_frate_fuoco.webp",
+          "emojis": ["🔥","🔥"]
+        },
+        {
+          "image_file": "02_frate_sole.webp",
+          "emojis": ["🌞","🌞"]
+        },
+        {
+          "image_file": "03_frate_vento.webp",
+          "emojis": ["🌬","🌬"]
+        },
+        {
+          "image_file": "04_frati_fiori.webp",
+          "emojis": ["🌼","🌼"]
+        },
+        {
+          "image_file": "05_frati_frutti.webp",
+          "emojis": ["🍎","🍎"]
+        },
+        {
+          "image_file": "06_madre_terra.webp",
+          "emojis": ["🌎","🌎"]
+        },
+        {
+          "image_file": "07_sora_acqua.webp",
+          "emojis": ["💧","💧"]
+        },
+        {
+          "image_file": "08_sora_erba.webp",
+          "emojis": ["🌱","🌱"]
+        },
+        {
+          "image_file": "09_sore_stelle.webp",
+          "emojis": ["⭐️","⭐️"]
+        },
+        {
+          "image_file": "10_Cuppy_hmm.webp",
+          "emojis": ["🤔","😐"]
+        }
+      ]
+    }
+  ]
+}
